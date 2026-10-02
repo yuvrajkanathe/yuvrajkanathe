@@ -1,122 +1,120 @@
-# Hi 👋, I'm Yuvraj Kanathe
+[![MasterHead](https://www.webbanao.com/images/web-development-service-banner.jpg)](https://github.com/yuvrajkanathe)
 
-### Software Development Engineer | Backend & Full Stack
+<h1 align="center">Hi 👋, I'm Yuvraj Kanathe</h1>
+<h3 align="center">Software Development Engineer | Backend & Full Stack Developer</h3>
 
-I'm a **Software Development Engineer from India** with **2+ years of experience** building scalable web applications, backend services, REST APIs, and production-ready full-stack systems.
-
-I primarily work with **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, and MySQL**, with hands-on experience deploying and maintaining applications using **AWS, Docker, CI/CD, and Linux/VPS environments**.
-
-I enjoy turning real-world requirements into clean, maintainable software — from responsive frontend experiences to backend architecture, authentication, databases, APIs, and cloud deployments.
-
----
-
-### 👨‍💻 About Me
-
-- 💻 Working as a **Full Stack Developer**
-- 🚀 Building production applications with **React, Next.js, Node.js & Express.js**
-- ⚙️ Interested in **Backend Engineering, System Design & Scalable Architecture**
-- ☁️ Working with **AWS, Docker, CI/CD & Linux**
-- 🤖 Exploring and integrating **AI/LLM APIs** into applications
-- 🧠 Strengthening **Data Structures & Algorithms and System Design**
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, REST APIs & Databases**
-- 📍 Based in **Indore, India**
-- 📫 Reach me at **yuvrajkanathe09@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
-</p>
-
-#### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
-</p>
-
-#### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**REST APIs • JWT • OAuth • RBAC • Microservices**
-
-#### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-#### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github" />
-</p>
-
-**AWS EC2 • Lambda • S3 • RDS • CloudFront • Fargate • ALB • CI/CD**
-
-#### Tools & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
-</p>
-
-**OpenAI APIs • Claude Code • GitHub • Bun**
-
----
-
-### 🚀 What I Build
-
-```text
-Frontend      → React.js • Next.js • Responsive UI
-Backend       → Node.js • Express.js • REST APIs
-Databases     → PostgreSQL • MongoDB • MySQL
-Security      → JWT • OAuth • RBAC
-Cloud         → AWS • Docker • CI/CD • Linux
-AI            → OpenAI APIs • LLM Integrations
-Architecture  → API Design • Microservices • System Design
-```
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuvrajkanathe&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajkanathe&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajkanathe&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
----
-
-### 🤝 Connect With Me
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left">
-  <a href="https://linkedin.com/in/yuvraj-kanathe">
-    <img src="https://img.shields.io/badge/LinkedIn-Yuvraj%20Kanathe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yuvrajkanathe09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yuvrajkanathe09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yuvrajkanathe">
-    <img src="https://img.shields.io/badge/GitHub-yuvrajkanathe-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yuvrajkanathe&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajkanathe" />
 </p>
 
----
+- 💻 I’m currently working as a **Full Stack Developer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajkanathe&label=Profile%20Views&color=0e75b6&style=flat" />
+- 🚀 I have **2+ years of experience** building production-ready web applications and backend systems
+
+- 🌱 I’m currently strengthening **System Design, DSA, Cloud & Backend Architecture**
+
+- ⚙️ I work with **React.js, Next.js, Node.js, Express.js, REST APIs & Databases**
+
+- ☁️ Hands-on experience with **AWS, Docker, CI/CD & Linux**
+
+- 🤖 I use **OpenAI APIs, Claude Code & AI-assisted development tools**
+
+- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, REST APIs, MongoDB & PostgreSQL**
+
+- 📫 How to reach me **yuvrajkanathe09@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/yuvraj-kanathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-kanathe" height="30" width="40" /></a>
+<a href="https://instagram.com/yuvraj_kanathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvraj_kanathe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yuvrajkanathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvrajkanathe" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <i>Building scalable software, one commit at a time.</i>
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
+</p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajkanathe&show_icons=true&locale=en&layout=compact" alt="yuvrajkanathe" />
+</p>
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajkanathe&show_icons=true&locale=en" alt="yuvrajkanathe" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajkanathe&" alt="yuvrajkanathe" />
 </p>
